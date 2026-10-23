@@ -36,7 +36,7 @@ The **College Notice Board System** connects college administration with student
 ---
 
 ## 📁 Directory Structure
-
+```text
 task4/
 ├── api/
 │   └── get_notices.php        # JSON API Endpoint for Async Requests
